@@ -1,0 +1,5 @@
+# Verilog
+*.vcd
+
+# R studio
+*.Rhistory
